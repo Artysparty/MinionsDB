@@ -12,7 +12,7 @@ namespace DBminions
 
         static void Main(string[] args)
         {
-            UpdateMinions();
+            DeleteMinions();
         }
         //Сделано!
         static void VillainsName()
