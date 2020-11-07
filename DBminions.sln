@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBminions", "DBminions\DBminions.csproj", "{F0697667-B168-4FAD-B7B3-D9266227130E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "list", "list\list.csproj", "{47AC5CEB-B6C9-4200-9AA8-5930EF285340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "list\Stack.csproj", "{47AC5CEB-B6C9-4200-9AA8-5930EF285340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
